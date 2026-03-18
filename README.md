@@ -10,3 +10,6 @@ A simple expense tracker built using Python Flask.
 ## Tech Stack
 - Python (Flask)
 - HTML, CSS, JavaScript
+
+## Author
+Sinchana Srinivas
